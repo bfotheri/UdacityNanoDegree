@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/trainingset.png "Training Set"
-[image2]: ./examples/testset.png "Validation Set"
+[image1]: ./examples/testset.png "Training Set"
+[image2]: ./examples/validationsett.png "Validation Set"
 [image3]: ./examples/testsetreal.png "Testing Set"
 
 [image4]: ./DoNotEnter.jpg "Traffic Sign 1"
