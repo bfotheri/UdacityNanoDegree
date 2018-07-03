@@ -144,42 +144,6 @@ Image One:
 | .17				    | Turn right ahead      							|
 
 
-Image Two:
-| Probability         	|     Prediction	        					|
-|:---------------------:|:---------------------------------------------:|
-| .21         			| 70 km/h  									|
-| .20     				| 20 km/h 									|
-| .20					| Beware of ice/snow											|
-| .19	      			| No entry					 				|
-| .19				    | Bicycles Crossing     							|
-
-Image Three:
-| Probability         	|     Prediction	        					|
-|:---------------------:|:---------------------------------------------:|
-| .28         			| 20 km/h  									|
-| .22     				| Ahead only					|
-| .18					| End of all speed and passing limits						|
-| .16	      			| Keep right					 				|
-| .16				    | Turn right ahead      							|
-
-Image Four:
-| Probability         	|     Prediction	        					|
-|:---------------------:|:---------------------------------------------:|
-| .20         			| Keep right  									|
-| .20     				| 70 km/h 										|
-| .20					| 20 km/h											|
-| .20	      			| Ahead only					 				|
-| .20				    | Turn right ahead     							|
-
-Image Five:
-| Probability         	|     Prediction	        					|
-|:---------------------:|:---------------------------------------------:|
-| .20         			| 20 km/h  									|
-| .20     				| Keep right 										|
-| .20					| Ahead only										|
-| .20	      			| 60 km/h					 				|
-| .20				    | Turn right ahead      							|
-
 
 
 
