@@ -135,6 +135,7 @@ The model was able to correctly guess 0 of the 5 traffic signs, which gives an a
 As you will see below the model wasn't very sure about any of its classifications. The major of the probabilites are close to each other indicating a low level of confidence in the classifications.
 
 Image One:
+
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 | .25         			| 20 km/r 									|
